@@ -1,0 +1,27 @@
+machine learning LISTA DE PAPERS:	STATUS	FECHA	DOI
+Evaluating machine learning performance in predicting injury severity in agribusiness industries	downloaded	2019/07/25, 11:24:10	10.1016/j.ssci.2019.04.026
+Predictors of in-hospital length of stay among cardiac patients A machine learning approach	downloaded	2019/07/25, 11:24:10	10.1016/j.ijcard.2019.01.046
+Machine learning algorithms for predicting scapular kinematics	downloaded	2019/07/25, 11:24:10	10.1016/j.medengphy.2019.01.005
+Attack and anomaly detection in IoT sensors in IoT sites using machine learning approaches	downloaded	2019/07/25, 11:24:10	10.1016/j.iot.2019.100059
+Machine learning for ecosystem services	downloaded	2019/07/25, 11:24:10	10.1016/j.ecoser.2018.04.004
+Machine Learning for Sustainable Structures A Call for Data	downloaded	2019/07/25, 11:24:10	10.1016/j.istruc.2018.11.013
+A comparison of machine learning techniques for file system forensics analysis	downloaded	2019/07/25, 11:24:10	10.1016/j.jisa.2019.02.009
+Artificial Intelligence and Machine Learning in Lower Extremity Arthroplasty A Review	downloaded	2019/07/25, 11:24:10	10.1016/j.arth.2019.05.055
+Machine learning-assisted early ignition prediction in a complex flow	downloaded	2019/07/25, 11:24:10	10.1016/j.combustflame.2019.05.014
+Development of machine learning algorithms for prediction of mortality in spinal epidural abscess	downloaded	2019/07/25, 11:24:10	10.1016/j.spinee.2019.06.024
+Machine learning core inflation	downloaded	2019/07/25, 11:24:10	10.1016/j.econlet.2018.05.001
+Identifying psychosis spectrum disorder from experience sampling data using machine learning approaches	downloaded	2019/07/25, 11:24:10	10.1016/j.schres.2019.04.028
+Machine Learning for Perovskites' Reap-Rest-Recovery Cycle	downloaded	2019/07/25, 11:24:10	10.1016/j.joule.2018.11.010
+Can machine learning predict resecability of a peritoneal carcinomatosis	downloaded	2019/07/25, 11:24:10	10.1016/j.suronc.2019.04.008
+A machine learning classifier for microlensing in wide-field surveys	downloaded	2019/07/25, 11:24:10	10.1016/j.ascom.2019.100298
+A White-Box Machine Learning Approach for Revealing Antibiotic Mechanisms of Action	downloaded	2019/07/25, 11:24:10	10.1016/j.cell.2019.04.016
+Statistical downscaling of precipitation using machine learning techniques	downloaded	2019/07/25, 11:24:10	10.1016/j.atmosres.2018.05.022
+Internet of Things A survey on machine learning-based intrusion detection approaches	downloaded	2019/07/25, 11:24:10	10.1016/j.comnet.2019.01.023
+Structure-Mechanical Stability Relations of Metal-Organic Frameworks via Machine Learning	downloaded	2019/07/25, 11:24:10	10.1016/j.matt.2019.03.002
+Big Data Analysis and Machine Learning in Intensive Care Units	downloaded	2019/07/25, 11:24:10	10.1016/j.medine.2019.06.012
+Finding the right fuel for the analytical engine Expanding the leader trait paradigm through machine learning	downloaded	2019/07/25, 11:24:10	10.1016/j.leaqua.2019.05.005
+Controlling of optical fiber bending losses through ‘WARN’ parameter and machine learning direction at three communication windows	downloaded	2019/07/25, 11:24:10	10.1016/j.ijleo.2019.163054
+Prediction of tidal currents using Bayesian machine learning	downloaded	2019/07/25, 11:24:10	10.1016/j.oceaneng.2018.03.007
+A Machine Learning Approach for Predicting Execution Time of Spark Jobs	downloaded	2019/07/25, 11:24:10	10.1016/j.aej.2018.03.006
+Sharing the Right Data Right A Symbiosis with Machine Learning	downloaded	2019/07/25, 11:24:10	10.1016/j.tplants.2018.10.016
+FIN DE BUSQUEDA machine learning	25 PAPERS DESCARGADOS	0 PAPERS NO DISPONIBLES	TEMA: machine learning
